@@ -1,0 +1,154 @@
+{
+	"main": {
+		"fullName": "Natasha Parisella",
+		"name": "Natasha",
+		"occupation": "Creative Full Stack Developer",
+		"description": "Curious Wanderer",
+		"image": "profilepic.jpg",
+		"bio": "Creative full-stack web developer, proficient in Javascript and passionate about React. ",
+		"contactMessage": "Get in touch with me !",
+		"email": "nat.parisella@gmail.com",
+		"phone": "+49 15251040283",
+		"address": {
+			"street": "Wipperstraße 25",
+			"city": "Berlin",
+			"zip": "12055"
+		},
+
+		"resumedownload": "https://drive.google.com/file/d/1LRXR7oj2svt_C9zGsl11TtAOdRUon-94/view?usp=sharing",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/natascia-parisella/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/natasha_incptd/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/natasha8",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skill_message": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Spiced Academy",
+				"degree": "Full Stack Web Developer",
+				"graduated": "August 2021",
+				"description": "3 month coding bootcamp experience (HTML, CSS, JavaScript, Git, Node, React, Redux, PostgreSQL)"
+			}
+		],
+		"work": [
+			{
+				"company": "Zola",
+				"title": "Head Waitress",
+				"years": "Nov 2015 - Dec 2019",
+				"description": "Italian Pizzeria",
+				"city": "Berlin"
+			},
+			{
+				"company": "Various ",
+				"title": "Bartender, Promoter, Cashier",
+				"years": "Jun 2012 - Oct 2015",
+				"description": "working for different party,clubs, festival",
+				"city": "London-Ibiza"
+			},
+			{
+				"company": "Proud Cabaret",
+				"title": "Cocktail Server/Cloakroom Assistant",
+				"years": "Oct 2011 - May 2012",
+				"description": "Busy Burlesque Cabaret",
+				"city": "London"
+			},
+			{
+				"company": "H & M ",
+				"title": "Sales Advisor",
+				"years": "Jan 2008 - May 2011",
+				"description": "Busy Retail Shop",
+				"city": "London"
+			}
+		],
+		"skills": [
+			{
+				"name": "Html/Css",
+				"level": "80%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "60%"
+			},
+			{
+				"name": "React",
+				"level": "80%"
+			},
+			{
+				"name": "Redux",
+				"level": "50%"
+			},
+			{
+				"name": "React Native",
+				"level": "50%"
+			},
+			{
+				"name": "Vue",
+				"level": "30%"
+			},
+			{
+				"name": "PostgresQl",
+				"level": "50%"
+			},
+
+			{
+				"name": "Firebase",
+				"level": "80%"
+			},
+			{
+				"name": "Node",
+				"level": "80%"
+			}
+		],
+
+		"interest": [
+			{
+				"name": "Video Editing/Motion Graphics/Photography"
+			},
+			{
+				"name": "Music/Events"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": " Secret Keywords PromoPool",
+				"category": "React, Firebase",
+				"image": "skphome.jpg",
+				"url": "https://promosecretkeywords.net"
+			},
+			{
+				"title": " GoTaxy",
+				"category": "React Native, Google API, Tailwind, Expo",
+				"image": "gotaxipic.jpg",
+				"url": ""
+			},
+			{
+				"title": " Amazon Clone",
+				"category": "Next, Firebase, Stripe ",
+				"image": "amazon.jpg",
+				"url": "https://amazon-clone-2-0.vercel.app/"
+			},
+			{
+				"title": " Social Network",
+				"category": "Next, Firebase, Tailwind ",
+				"image": "social_network.jpg",
+				"url": ""
+			}
+		]
+	}
+}
