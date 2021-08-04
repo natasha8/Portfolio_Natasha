@@ -127,24 +127,28 @@
 		"projects": [
 			{
 				"title": " Secret Keywords PromoPool",
+				"description": "Private Promo pool for music, here you can listen new track, send a feedback and download the promo packadge",
 				"category": "React, Firebase",
 				"image": "skphome.jpg",
 				"url": "https://promosecretkeywords.net"
 			},
 			{
 				"title": " GoTaxy",
+				"description": "Native app for Taxi Rides",
 				"category": "React Native, Google API, Tailwind, Expo",
 				"image": "gotaxipic.jpg",
 				"url": ""
 			},
 			{
 				"title": " Amazon Clone",
+				"description": "e-commerce website",
 				"category": "Next, Firebase, Stripe ",
 				"image": "amazon.jpg",
 				"url": "https://amazon-clone-2-0.vercel.app/"
 			},
 			{
 				"title": " Social Network",
+				"description": "Meet your friend here",
 				"category": "Next, Firebase, Tailwind ",
 				"image": "social_network.jpg",
 				"url": ""

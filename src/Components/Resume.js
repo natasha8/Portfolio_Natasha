@@ -41,9 +41,8 @@ const Resume = ({ data }) => {
 				</li>
 			);
 		});
-		var interest = data.interest.map(function(interest) {
-			return(
-			<li key={interest.name}>{interest.name}</li>)
+		var interest = data.interest.map(function (interest) {
+			return <li key={interest.name}>{interest.name}</li>;
 		});
 	}
 
@@ -61,16 +60,6 @@ const Resume = ({ data }) => {
 						<div className="twelve columns">{education}</div>
 					</div>
 				</div>
-			</div>
-
-			<div className="row work">
-				<div className="three columns header-col">
-					<h1>
-						<span>Work</span>
-					</h1>
-				</div>
-
-				<div className="nine columns main-col">{work}</div>
 			</div>
 
 			<div className="row skill">
@@ -95,9 +84,21 @@ const Resume = ({ data }) => {
 					</h1>
 				</div>
 
-				<div className="interest">
-					<ul className="skills">{interest}</ul>
+				<div className="row interest">
+					<ul className="columns header-col">
+						<h5>{interest}</h5>
+					</ul>
 				</div>
+			</div>
+			<br />
+			<div className="row work">
+				<div className="three columns header-col">
+					<h1>
+						<span>Work</span>
+					</h1>
+				</div>
+
+				<div className="nine columns main-col">{work}</div>
 			</div>
 		</section>
 	);

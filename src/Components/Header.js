@@ -50,7 +50,7 @@ const Header = ({ data }) => {
 					</li>
 					<li>
 						<a className="smoothscroll" href="#portfolio">
-							Works
+							Projects
 						</a>
 					</li>
 
@@ -70,8 +70,8 @@ const Header = ({ data }) => {
 						</TypeWriter>
 					</h1>
 					<h3>
-						{occupation}{" "}
-						<span>_{description}_</span>Based in {city}. 
+						{occupation} <span>_{description}_</span>Based in {city}
+						.
 					</h3>
 					<hr />
 					<ul className="social">{networks}</ul>
