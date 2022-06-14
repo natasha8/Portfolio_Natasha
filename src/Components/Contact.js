@@ -74,7 +74,7 @@ const Contact = ({ data }) => {
 
                                 <div>
                                     <label htmlFor="contactEmail">
-                                        Email{" "}
+                                        Email
                                         <span className="required">*</span>
                                     </label>
                                     <input
@@ -99,7 +99,7 @@ const Contact = ({ data }) => {
 
                                 <div>
                                     <label htmlFor="contactMessage">
-                                        Message{" "}
+                                        Message
                                         <span className="required">*</span>
                                     </label>
                                     <textarea
