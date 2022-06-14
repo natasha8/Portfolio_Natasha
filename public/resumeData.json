@@ -44,7 +44,7 @@
             }
         ],
         "work": [
-			{
+            {
                 "company": "DCI - Digital Career Institute",
                 "title": "Class Tutor",
                 "years": "February 2022 - Present",
@@ -138,29 +138,36 @@
                 "title": " Secret Keywords PromoPool",
                 "description": "Private Promo pool for music, here you can listen new track, send a feedback and download the promo packadge",
                 "category": "React, Firebase",
-                "image": "skphome.jpg",
+                "image": "skphome.JPG",
                 "url": "https://promosecretkeywords.net"
             },
             {
                 "title": " GoTaxy",
                 "description": "Native app for Taxi Rides",
                 "category": "React Native, Google API, Tailwind, Expo",
-                "image": "gotaxipic.jpg",
+                "image": "gotaxipic.JPG",
                 "url": ""
             },
             {
                 "title": " Amazon Clone",
                 "description": "e-commerce website",
                 "category": "Next, Firebase, Stripe ",
-                "image": "amazon.jpg",
+                "image": "amazon.JPG",
                 "url": "https://amazon-clone-2-0.vercel.app/"
             },
             {
                 "title": " Social Network",
                 "description": "Meet your friend here",
                 "category": "Next, Firebase, Tailwind ",
-                "image": "social_network.jpg",
+                "image": "social_network.JPG",
                 "url": ""
+            },
+            {
+                "title": "Airbnb Clone",
+                "description": "airbnb clone",
+                "category": "Next, Firebase, Tailwind ",
+                "image": "airbnb.png",
+                "url": "https://airbnb-clone-five-silk.vercel.app/"
             }
         ]
     }
